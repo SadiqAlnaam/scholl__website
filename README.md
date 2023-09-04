@@ -1,1 +1,1 @@
-# school__website.github.io
+# school__website
